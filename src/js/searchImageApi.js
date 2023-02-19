@@ -3,7 +3,7 @@ import axios from "axios";
 export default class searchImageApi {
     constructor() {
         this.baseURL = 'https://pixabay.com/api/';
-        this.apiKey = '33686649-ba989947344a323365ef7e7ef';
+        this.apiKey = '33770559-c394114938a05872ba356bd5c';
         this.searchName = '';
         this.imageType = 'photo';
         this.orientation = 'horizontal';
